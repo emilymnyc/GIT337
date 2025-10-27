@@ -1,0 +1,9 @@
+:root{
+	--purple: #3F2860;
+}
+
+h1{
+	color: var(--purple);
+	text-align: center;
+    font-size: 1rem;
+}
